@@ -21,4 +21,5 @@ Before Start DSA journey Reminder following steps
 
 # Array 
 1 : https://leetcode.com/problems/single-number/description/
+
 2 : https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array
