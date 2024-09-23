@@ -20,8 +20,25 @@ Before Start DSA journey Reminder following steps
 # Problems step by step
 
 # Array 
+
 1 : https://leetcode.com/problems/single-number/description/
 
 2 : https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array
 
 3 : https://leetcode.com/problems/merge-sorted-array/description/
+
+4 : https://leetcode.com/problems/running-sum-of-1d-array/description/
+
+5 : https://leetcode.com/problems/find-the-highest-altitude/
+
+6 : https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
+
+7 : https://leetcode.com/problems/squares-of-a-sorted-array/description/
+
+8 : https://leetcode.com/problems/concatenation-of-array/
+
+9 : https://leetcode.com/problems/number-of-good-pairs/description/
+
+10 : https://leetcode.com/problems/shuffle-the-array/description/
+
+11 : https://leetcode.com/problems/move-zeroes/description/
