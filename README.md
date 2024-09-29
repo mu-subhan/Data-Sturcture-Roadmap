@@ -42,3 +42,25 @@ Before Start DSA journey Reminder following steps
 10 : https://leetcode.com/problems/shuffle-the-array/description/
 
 11 : https://leetcode.com/problems/move-zeroes/description/
+
+# String 
+
+1 : https://leetcode.com/problems/jewels-and-stones/description/
+
+2 : https://leetcode.com/problems/reverse-string/description/
+
+3 : https://leetcode.com/problems/merge-strings-alternately/description/
+
+4 : https://leetcode.com/problems/fizz-buzz/description/
+
+5 : https://leetcode.com/problems/valid-anagram/description/
+
+6 : https://leetcode.com/problems/reverse-vowels-of-a-string/
+
+7 : https://leetcode.com/problems/valid-palindrome/description/
+
+8 : https://leetcode.com/problems/repeated-substring-pattern/description/
+
+9 : https://leetcode.com/problems/isomorphic-strings/description/
+
+10 : https://leetcode.com/problems/is-subsequence/description/
