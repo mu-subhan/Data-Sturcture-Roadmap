@@ -64,3 +64,15 @@ Before Start DSA journey Reminder following steps
 9 : https://leetcode.com/problems/isomorphic-strings/description/
 
 10 : https://leetcode.com/problems/is-subsequence/description/
+
+# Linklist 
+
+1 : https://leetcode.com/problems/reverse-linked-list/description/
+
+2 : https://leetcode.com/problems/middle-of-the-linked-list/description/
+
+3 : https://leetcode.com/problems/linked-list-cycle/description/
+
+4 : https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+
+5 : https://leetcode.com/problems/intersection-of-two-linked-lists/description/
