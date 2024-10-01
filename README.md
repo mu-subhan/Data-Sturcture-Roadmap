@@ -76,3 +76,5 @@ Before Start DSA journey Reminder following steps
 4 : https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 
 5 : https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+
+6 : https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
