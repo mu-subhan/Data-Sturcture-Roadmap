@@ -78,3 +78,5 @@ Before Start DSA journey Reminder following steps
 5 : https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 
 6 : https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+
+7 : https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
