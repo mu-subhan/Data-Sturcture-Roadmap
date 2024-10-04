@@ -82,3 +82,5 @@ Before Start DSA journey Reminder following steps
 7 : https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
 
 8 : https://leetcode.com/problems/design-hashmap/description/
+
+## Stack
