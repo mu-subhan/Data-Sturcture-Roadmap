@@ -98,3 +98,5 @@ Before Start DSA journey Reminder following steps
 6 : Implement Queue using Stacks
 
 ## Queue 
+
+1 : Number of Students Unable to Eat Lunch
