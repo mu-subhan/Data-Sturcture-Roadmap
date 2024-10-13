@@ -100,3 +100,5 @@ Before Start DSA journey Reminder following steps
 ## Queue 
 
 1 : Number of Students Unable to Eat Lunch
+
+2 : https://leetcode.com/problems/make-the-string-great/description/
