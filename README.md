@@ -102,3 +102,5 @@ Before Start DSA journey Reminder following steps
 1 : Number of Students Unable to Eat Lunch
 
 2 : https://leetcode.com/problems/make-the-string-great/description/
+
+3 : https://leetcode.com/problems/dota2-senate/
