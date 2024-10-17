@@ -21,6 +21,8 @@ Before Start DSA journey Reminder following steps
 
 # First we solve Easy Level Problem and then gose for Medium Level Problem
 
+# Easy Level Problem
+
 # Array 
 
 1 : https://leetcode.com/problems/single-number/description/
