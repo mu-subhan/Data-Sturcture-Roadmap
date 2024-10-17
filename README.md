@@ -7,7 +7,7 @@ Before Start DSA journey Reminder following steps
 
 ❌ Don't worry about Leetcode hards. Most problems asked in the interviews are medium difficulty. 
 
-❌ Don't try to optimize your code for total lines of code. Optimize for readability (and big-O).
+❌ Don't try to optimize your code for total lines of code . Optimize for readability (and big-O).
 
 
 ✅ Time yourself. If you can't solve a problem in less than 45 minutes, you will not be able to solve it in an interview.
