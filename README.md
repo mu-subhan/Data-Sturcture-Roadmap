@@ -21,7 +21,7 @@ Before Start DSA journey Reminder following steps
 
 # First we solve Easy Level Problem and then gose for Medium Level Problem
 
-# Easy Level Problem
+# Easy Level Problems
 
 # Array 
 
