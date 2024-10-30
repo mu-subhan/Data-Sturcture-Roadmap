@@ -89,7 +89,7 @@ Before Start DSA journey Reminder following steps
 
 ## Stack
 
-1 : Backspace String Compare
+1 : https://leetcode.com/problems/backspace-string-compare/
 
 2 : Time Needed to Buy Tickets
 
