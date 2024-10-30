@@ -112,3 +112,5 @@ Before Start DSA journey Reminder following steps
 4 : https://leetcode.com/problems/dota2-senate/
 
 5 : https://leetcode.com/problems/number-of-recent-calls/
+
+6 : https://leetcode.com/problems/implement-stack-using-queues/
