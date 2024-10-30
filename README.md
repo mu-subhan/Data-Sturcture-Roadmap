@@ -91,7 +91,7 @@ Before Start DSA journey Reminder following steps
 
 1 : https://leetcode.com/problems/backspace-string-compare/
 
-2 : Time Needed to Buy Tickets
+2 : https://leetcode.com/problems/valid-parentheses/
 
 3 : Make The String Great
 
