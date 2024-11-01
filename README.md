@@ -97,7 +97,7 @@ Before Start DSA journey Reminder following steps
 
 4 : https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 
-5 : Removing Stars From a String
+5 : https://leetcode.com/problems/removing-stars-from-a-string/
 
 6 : Implement Queue using Stacks
 
