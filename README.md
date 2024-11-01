@@ -99,7 +99,7 @@ Before Start DSA journey Reminder following steps
 
 5 : https://leetcode.com/problems/removing-stars-from-a-string/
 
-6 : Implement Queue using Stacks
+6 : 
 
 ## Queue 
 
