@@ -117,4 +117,4 @@ Before Start DSA journey Reminder following steps
 
 ## Hashmap
 
-1 : 
+1 : https://leetcode.com/problems/next-greater-element-i/
