@@ -118,3 +118,6 @@ Before Start DSA journey Reminder following steps
 ## Hashmap
 
 1 : https://leetcode.com/problems/next-greater-element-i/
+
+2 : https://leetcode.com/problems/two-sum/
+
