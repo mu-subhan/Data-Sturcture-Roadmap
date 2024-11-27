@@ -124,3 +124,5 @@ Before Start DSA journey Reminder following steps
 3 : https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
 
 4 : https://leetcode.com/problems/missing-number/description/
+
+5 https://leetcode.com/problems/jewels-and-stones/description/
