@@ -121,3 +121,4 @@ Before Start DSA journey Reminder following steps
 
 2 : https://leetcode.com/problems/two-sum/
 
+3 : https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
