@@ -125,4 +125,9 @@ Before Start DSA journey Reminder following steps
 
 4 : https://leetcode.com/problems/missing-number/description/
 
-5 https://leetcode.com/problems/jewels-and-stones/description/
+5 : https://leetcode.com/problems/jewels-and-stones/description/
+
+6 : https://leetcode.com/problems/contains-duplicate/description/
+
+7 : https://leetcode.com/problems/length-of-last-word/description/
+
