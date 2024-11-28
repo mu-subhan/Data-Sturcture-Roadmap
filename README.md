@@ -131,3 +131,4 @@ Before Start DSA journey Reminder following steps
 
 7 : https://leetcode.com/problems/length-of-last-word/description/
 
+8 : https://leetcode.com/problems/valid-anagram/description/
