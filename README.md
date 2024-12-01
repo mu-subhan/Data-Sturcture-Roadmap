@@ -139,4 +139,8 @@ Before Start DSA journey Reminder following steps
 
 3 : https://leetcode.com/problems/power-of-two/
 
-4 : 
+4 : https://leetcode.com/problems/power-of-three/
+
+5 : https://leetcode.com/problems/power-of-four/description/
+
+6 : https://leetcode.com/problems/powx-n/
