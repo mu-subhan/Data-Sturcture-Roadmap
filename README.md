@@ -145,7 +145,7 @@ Before Start DSA journey Reminder following steps
 
 6 : https://leetcode.com/problems/powx-n/
 
-## Phase 2
+## Phase 2 / Medium level
 
 ## Instructions
 
