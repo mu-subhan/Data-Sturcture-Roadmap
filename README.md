@@ -147,10 +147,13 @@ Before Start DSA journey Reminder following steps
 
 ## Phase 2
 
-# nstructions
+## Instructions
 
 Understand the problem by yourself
+
 If having difficulty find any video on YouTube and watch the starting part to understand the problem then pause the video try your solution.
+
 Then watch the solution even if your solution is submitted or not.
+
 Recommended channels (Neetcode.io, striver)
 
