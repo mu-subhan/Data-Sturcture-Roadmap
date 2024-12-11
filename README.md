@@ -157,3 +157,6 @@ Then watch the solution even if your solution is submitted or not.
 
 Recommended channels (Neetcode.io, striver)
 
+## Array
+
+1 : https://leetcode.com/problems/merge-intervals/
