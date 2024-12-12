@@ -160,3 +160,6 @@ Recommended channels (Neetcode.io, striver)
 ## Array
 
 1 : https://leetcode.com/problems/merge-intervals/
+
+2 : https://leetcode.com/problems/3sum/
+
