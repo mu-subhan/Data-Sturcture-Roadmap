@@ -166,3 +166,5 @@ Recommended channels (Neetcode.io, striver)
 3 : https://leetcode.com/problems/product-of-array-except-self/
 
 4 : https://leetcode.com/problems/insert-delete-getrandom-o1/
+
+5 : https://leetcode.com/problems/subarray-sum-equals-k/ 
