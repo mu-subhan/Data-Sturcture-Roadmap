@@ -168,3 +168,7 @@ Recommended channels (Neetcode.io, striver)
 4 : https://leetcode.com/problems/insert-delete-getrandom-o1/
 
 5 : https://leetcode.com/problems/subarray-sum-equals-k/ 
+
+## String
+
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
