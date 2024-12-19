@@ -172,3 +172,11 @@ Recommended channels (Neetcode.io, striver)
 ## String
 
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+
+https://leetcode.com/problems/longest-palindromic-substring/
+
+https://leetcode.com/problems/group-anagrams/
+
+https://leetcode.com/problems/generate-parentheses/
