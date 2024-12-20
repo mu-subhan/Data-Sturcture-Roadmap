@@ -180,3 +180,7 @@ https://leetcode.com/problems/longest-palindromic-substring/
 https://leetcode.com/problems/group-anagrams/
 
 https://leetcode.com/problems/generate-parentheses/
+
+## Greedy
+
+https://leetcode.com/problems/task-scheduler/
