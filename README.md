@@ -184,3 +184,7 @@ https://leetcode.com/problems/generate-parentheses/
 ## Greedy
 
 https://leetcode.com/problems/task-scheduler/
+
+https://leetcode.com/problems/gas-station/
+
+https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
