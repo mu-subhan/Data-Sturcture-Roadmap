@@ -188,3 +188,7 @@ https://leetcode.com/problems/task-scheduler/
 https://leetcode.com/problems/gas-station/
 
 https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
+
+https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+
+https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
