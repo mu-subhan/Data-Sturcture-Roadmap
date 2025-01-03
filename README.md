@@ -192,3 +192,7 @@ https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 
 https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+
+## Math
+
+https://leetcode.com/problems/encode-and-decode-tinyurl/
