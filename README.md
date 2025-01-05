@@ -196,3 +196,11 @@ https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 ## Math
 
 https://leetcode.com/problems/encode-and-decode-tinyurl/
+
+https://leetcode.com/problems/angle-between-hands-of-a-clock/
+
+https://leetcode.com/problems/string-to-integer-atoi/
+
+https://leetcode.com/problems/integer-break/
+
+https://leetcode.com/problems/multiply-strings/
