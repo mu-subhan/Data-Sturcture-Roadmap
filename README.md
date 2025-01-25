@@ -171,39 +171,39 @@ Recommended channels (Neetcode.io, striver)
 
 ## String
 
-https://leetcode.com/problems/longest-substring-without-repeating-characters/
+1 : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+2 : https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 
-https://leetcode.com/problems/longest-palindromic-substring/
+3 : https://leetcode.com/problems/longest-palindromic-substring/
 
-https://leetcode.com/problems/group-anagrams/
+4 : https://leetcode.com/problems/group-anagrams/
 
-https://leetcode.com/problems/generate-parentheses/
+5 : https://leetcode.com/problems/generate-parentheses/
 
 ## Greedy
 
-https://leetcode.com/problems/task-scheduler/
+1 : https://leetcode.com/problems/task-scheduler/
 
-https://leetcode.com/problems/gas-station/
+2 : https://leetcode.com/problems/gas-station/
 
-https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
+3 : https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 
-https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+4 : https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 
-https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+5 : https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 
 ## Math
 
-https://leetcode.com/problems/encode-and-decode-tinyurl/
+1 : https://leetcode.com/problems/encode-and-decode-tinyurl/
 
-https://leetcode.com/problems/angle-between-hands-of-a-clock/
+2 : https://leetcode.com/problems/angle-between-hands-of-a-clock/
 
-https://leetcode.com/problems/string-to-integer-atoi/
+3 : https://leetcode.com/problems/string-to-integer-atoi/
 
-https://leetcode.com/problems/integer-break/
+4 : https://leetcode.com/problems/integer-break/
 
-https://leetcode.com/problems/multiply-strings/
+5 : https://leetcode.com/problems/multiply-strings/
 
 ## Intervals
 
