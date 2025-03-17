@@ -1,5 +1,5 @@
 # Data-Sturcture Roadmap
-Before Start DSA journey Reminder following steps
+Before Start DSA journey reminder following steps
 
 ❌ Don't spend more than 40 to 50 minutes on a problem. Learn from the most upvoted solutions after 60 minutes and move on.
 
@@ -17,7 +17,6 @@ Before Start DSA journey Reminder following steps
 ✅ Don't compare yourself to others. Everyone starts from zero.. Keep going!
 
 
-# Problems step by step
 
 # Easy Level Problems
 
