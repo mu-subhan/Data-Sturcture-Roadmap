@@ -68,7 +68,26 @@ Before Start DSA journey reminder following steps
 
 10 : https://leetcode.com/problems/is-subsequence/description/
 
-# Linklist 
+## Hashmap
+
+1 : https://leetcode.com/problems/next-greater-element-i/
+
+2 : https://leetcode.com/problems/two-sum/
+
+3 : https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
+
+4 : https://leetcode.com/problems/missing-number/description/
+
+5 : https://leetcode.com/problems/jewels-and-stones/description/
+
+6 : https://leetcode.com/problems/contains-duplicate/description/
+
+7 : https://leetcode.com/problems/length-of-last-word/description/
+
+8 : https://leetcode.com/problems/valid-anagram/description/
+
+
+## Linklist 
 
 1 : https://leetcode.com/problems/reverse-linked-list/description/
 
@@ -114,23 +133,6 @@ Before Start DSA journey reminder following steps
 
 6 : https://leetcode.com/problems/implement-stack-using-queues/
 
-## Hashmap
-
-1 : https://leetcode.com/problems/next-greater-element-i/
-
-2 : https://leetcode.com/problems/two-sum/
-
-3 : https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
-
-4 : https://leetcode.com/problems/missing-number/description/
-
-5 : https://leetcode.com/problems/jewels-and-stones/description/
-
-6 : https://leetcode.com/problems/contains-duplicate/description/
-
-7 : https://leetcode.com/problems/length-of-last-word/description/
-
-8 : https://leetcode.com/problems/valid-anagram/description/
 
 ## Recursion
 
